@@ -19,7 +19,7 @@ main .container {
     align-items: center;
     padding: 30px;
     border-radius: 10px;
-    height: 600px;
+    height: 500px;
     margin-top: -50px;
     box-shadow: 1px 1px 25px rgba(255, 255, 255, 0.219);
 }
@@ -74,4 +74,5 @@ main .container .links ul li a:active {
     box-shadow: 1px 1px 25px rgba(255, 255, 255, 0.753);
 
 }
+
 
